@@ -1,2 +1,2 @@
 # FinalResearch
-  Implementation of social media influence
+# Implementation of social media influence
